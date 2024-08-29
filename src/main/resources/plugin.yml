@@ -1,0 +1,8 @@
+name: BlockInventoryItem
+version: '1.0.0-OmxRealm'
+main: org.dw363.BlockInventoryItem
+api-version: '1.21'
+load: STARTUP
+authors: [dw363]
+description: Плагин, запрещающий передвигать предметы в инвентаре у игроков. Создано специально для сервера OmxRealm. Project The OMX
+website: https://github.com/Hacker123ter
